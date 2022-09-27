@@ -1,3 +1,4 @@
+<![CDATA[
 document.addEventListener('DOMContentLoaded', function () {
     let elements = document.getElementsByClassName('invoice-entry');
     for (let i = 0; i < elements.length; i++) {
@@ -6,3 +7,4 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     }
 }, false);
+]]>
